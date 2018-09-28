@@ -30,7 +30,6 @@ group :test do
   gem 'rack-test'
   gem 'rails-controller-testing'
   gem 'rspec-rails'
-  gem 'rspec-parameterized'
 end
 
 group :production do
